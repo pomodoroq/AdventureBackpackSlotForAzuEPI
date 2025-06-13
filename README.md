@@ -1,6 +1,6 @@
 # AdventureBackpackSlotForAzuEPI
 
-Adds a dedicated Backpack slot for [AdventureBackpacks](https://valheim.thunderstore.io/package/RandyKnapp/AdventureBackpacks/) using [AzuExtendedPlayerInventory](https://valheim.thunderstore.io/package/Azumatt/AzuExtendedPlayerInventory/).
+Adds a dedicated Backpack slot for [AdventureBackpacks](https://thunderstore.io/c/valheim/p/Vapok/AdventureBackpacks/) using [AzuExtendedPlayerInventory](https://valheim.thunderstore.io/package/Azumatt/AzuExtendedPlayerInventory/).
 
 This mod provides a compatibility layer to ensure only backpack items can be equipped in a dedicated slot. Intended for players who want clean inventory management and UI integration.
 
@@ -19,7 +19,7 @@ This mod provides a compatibility layer to ensure only backpack items can be equ
 
 - [BepInExPack for Valheim](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
 - [AzuExtendedPlayerInventory](https://valheim.thunderstore.io/package/Azumatt/AzuExtendedPlayerInventory/)
-- [AdventureBackpacks](https://valheim.thunderstore.io/package/RandyKnapp/AdventureBackpacks/)
+- [AdventureBackpacks](https://thunderstore.io/c/valheim/p/Vapok/AdventureBackpacks/)
 
 ---
 
